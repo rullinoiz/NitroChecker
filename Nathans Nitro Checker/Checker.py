@@ -1,4 +1,4 @@
-
+import requests
 from datetime import datetime
 from colorama import Fore, Style, init
 init()
